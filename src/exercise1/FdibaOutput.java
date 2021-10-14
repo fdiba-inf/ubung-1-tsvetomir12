@@ -1,6 +1,6 @@
 package exercise1;
 
-public class Aufgabe3 {
+public class FdibaOutput {
 
     public static void main(String[] args) {
         System.out.println("FFFFF DDDDD   II BBBBB      A");
